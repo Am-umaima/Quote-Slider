@@ -1,0 +1,29 @@
+.backhome
+{
+	background-color:green;
+	color:beige;
+	text-decoration:none;
+	font-weight:bolder;
+	font-size:20px;
+	padding:10px;
+	border-radius:20px;
+}
+*{background-color:beige;}
+/* .mySlides {display:none;} */
+
+
+.inpt
+{
+	padding:5px;
+	width:400px;
+  margin-bottom:20px;
+}
+.inptmsg
+{
+	text-align: left;
+margin: 1px;
+padding: 1px;
+width: 500px;
+height: 300px;
+vertical-align: top;
+}
