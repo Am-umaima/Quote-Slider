@@ -26,7 +26,7 @@ function ShowQuots(index)
 	
 	}
 	x[SlidItem-1].style.display="block";
-	document.getElementById("reult").value=x[SlidItem-1].innerHTML;
+	// document.getElementById("reult").value=x[SlidItem-1].innerHTML;
 
 }
 
